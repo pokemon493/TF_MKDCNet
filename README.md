@@ -1,4 +1,4 @@
-# TF_MKDCNet
+# TF_MKDCNet for polyp segmentation
 Unofficial tensorflow code implementation of paper "Automatic Polyp Segmentation with Multiple Kernel Dilated Convolution Network".
 
 Paper link: https://arxiv.org/pdf/2206.06264v2.pdf
